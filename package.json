@@ -1,0 +1,14 @@
+
+{
+  "name": "startup-landing-page-exp10",
+  "version": "1.0.0",
+  "description": "Startup registration form using Node.js and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0"
+  }
+}
